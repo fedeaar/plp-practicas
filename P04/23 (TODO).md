@@ -1,0 +1,1 @@
+## 23. A partir de la extensión del ejercicio 22, definir una nueva extensión que incorpore expresiones de la forma map(M, N), donde N es una lista y M una función que se aplicará a cada uno de los elementos de N. Importante: tener en cuenta las anotaciones de tipos al definir las reglas de tipado y semántica.
